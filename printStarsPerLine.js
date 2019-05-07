@@ -1,3 +1,11 @@
+/*
+  Author: Leng Yang
+  Date: 05/07/2019
+  Time: 10:21AM
+  Description: A function that takes a number as an argument. The number specifies how many
+  line of stars are being printed. 
+*/
+
 printStarsPerLine = num => {
   const star = "*"; //  Initialize star as *
   const space = " "; //  Initialize space as a space

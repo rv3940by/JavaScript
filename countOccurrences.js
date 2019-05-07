@@ -1,3 +1,10 @@
+/*
+  Author: Leng Yang
+  Date: 05/07/2019
+  Time: 10:21AM
+  Description: A function that checks how many times a number occurres in an array.
+*/
+
 const numArr = [2, 3, 4, 2, 4, 5, 6, 2]; // Initialize numArr with some numbers inside it
 
 countOccurences = (arr, num) => {
