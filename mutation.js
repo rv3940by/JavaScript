@@ -1,3 +1,10 @@
+/*
+    Author: Leng Yang
+    Date: 05/16/2019
+    Description: A Program that checks if all of the letters in the second index of arr are within
+                 the first index of arr.
+*/
+
 mutation = arr => {
   let isEqual = false; // Init isEqual to false
 
